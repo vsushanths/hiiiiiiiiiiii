@@ -1,0 +1,54 @@
+
+GitHub Help
+
+    Contact Support
+    Return to GitHub
+
+Manipulating Files / Creating new files
+Creating new files
+
+You can create new files directly on GitHub in any repository you have write access to.
+
+When creating a file on GitHub, consider the following:
+
+    If you try to create a new file in a repository that you don’t have access to, we will fork the project to your user account and help you send a pull request to the original repository after you commit your change.
+    File names created via the web interface can only contain alphanumeric characters and hyphens (-). To use other characters, create and commit the files locally, then push them to the repository on GitHub.
+
+Warning: Never git add, commit, or push sensitive information to a remote repository. Sensitive information can include, but is not limited to:
+
+    Passwords
+    SSH keys
+    AWS access keys
+    API keys
+    Credit card numbers
+    PIN numbers
+
+For more information, see "Remove sensitive data."
+
+    In your repository, browse to the folder where you want to create a file.
+    The create new file button on GitHub Above the file list, click 
+
+    .
+    New file nameIn the file name field, type the name and extension for the file. To create subdirectories, type the / directory separator.
+    Content in new fileOn the Edit new file tab, add content to the file.
+    New file preview buttonTo review the new content, click Preview.
+    Commit message for your new fileAt the bottom of the page, under "Commit new file," type a short, meaningful commit message that describes the change you made to the file.
+    Commit branch optionsBelow the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
+    Commit new file buttonClick Propose new file.
+
+Article versions
+
+    GitHub.com
+    GitHub Enterprise 2.1
+    GitHub Enterprise 2.0
+    GitHub Enterprise 11.10.340
+
+The GitHub Logo
+
+© 2015 GitHub Inc. All rights reserved.
+
+    Terms of Service
+    Privacy
+    Security
+    Support
+

@@ -15,7 +15,7 @@ When creating a file on GitHub, consider the following:
     File names created via the web interface can only contain alphanumeric characters and hyphens (-). To use other characters, create and commit the files locally, then push them to the repository on GitHub.
 
 Warning: Never git add, commit, or push sensitive information to a remote repository. Sensitive information can include, but is not limited to:
-
+hello
     Passwords
     SSH keys
     AWS access keys
@@ -24,10 +24,10 @@ Warning: Never git add, commit, or push sensitive information to a remote reposi
     PIN numbers
 
 For more information, see "Remove sensitive data."
-
+hello
     In your repository, browse to the folder where you want to create a file.
     The create new file button on GitHub Above the file list, click 
-
+hello
     .
     New file nameIn the file name field, type the name and extension for the file. To create subdirectories, type the / directory separator.
     Content in new fileOn the Edit new file tab, add content to the file.
@@ -51,4 +51,4 @@ The GitHub Logo
     Privacy
     Security
     Support
-
+hello
